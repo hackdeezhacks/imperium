@@ -8,9 +8,9 @@ Imperium Proxy is a Ultraviolet front-end. This proxy was made for the Imperium 
 ## Usage
 
 ```bash
-git clone https://github.com/Hyunwoonator/Imperium-Proxy/
+git clone https://github.com/hackdeezhacks/imperium
 
-cd Imperium-Proxy
+cd imperium
 
 npm install
 
